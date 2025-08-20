@@ -1,6 +1,6 @@
 {
   "itemGroup.examplemod": "Example Mod Tab",
-  "block.examplemod.example_block": "Example Block",
+  "block.dandacraft.example_block": "Example Block",
   "item.examplemod.example_item": "Example Item",
 
   "examplemod.configuration.title": "Example Mod Configs",
@@ -9,5 +9,10 @@
   "examplemod.configuration.items": "Item List",
   "examplemod.configuration.logDirtBlock": "Log Dirt Block",
   "examplemod.configuration.magicNumberIntroduction": "Magic Number Text",
-  "examplemod.configuration.magicNumber": "Magic Number"
+  "examplemod.configuration.magicNumber": "Magic Number",
+
+  "key.dandacraft.ability_1": "Ability One",
+  "key.dandacraft.ability_2": "Ability Two",
+  "key.dandacraft.ability_3": "Ability Three",
+  "key.categories.dandacraft": "DandaCraft"
 }
